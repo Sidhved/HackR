@@ -1,9 +1,6 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
-import java.math.*;
-public class Main {
-    
+
+public class Solution {
     public static void main (String[] args) throws java.lang.Exception {
         Scanner kb = new Scanner(System.in);
         int test_cases = kb.nextInt();
